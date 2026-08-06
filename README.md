@@ -12,6 +12,9 @@ Hello, I am Surya Samanta. I love to create transit maps of different metropolit
   - Delhi Metro Railway Transit Map
   - Hyderabad Metro Railway Transit Map
 
+## Preview
+![Bengaluru Metro Railway Transit Map](Bengaluru/Bengaluru-Metro-Railway-Transit-Map.png)
+
 ## Links
 Visit my website:
 https://sites.google.com/view/sstransitmaps/home
