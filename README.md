@@ -13,7 +13,7 @@ Hello, I am Surya Samanta. I love to create transit maps of different metropolit
   - Hyderabad Metro Railway Transit Map
 
 ## Preview
-![Bengaluru Metro Railway Transit Map](Bengaluru/Bengaluru-Metro-Railway-Transit-Map.png)
+![Bengaluru Metro Railway Transit Map](Bengaluru/Bengaluru Metro Railway Transit Map.png)
 
 ## Links
 Visit my website:
