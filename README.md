@@ -4,10 +4,10 @@ Hello, I am Surya Samanta. I love to create transit maps of different metropolit
 
 ## Projects
 - Suburban Railway Transit Maps
-- - Chennai Suburban Railway Transit Map
+  - Chennai Suburban Railway Transit Map
   - Kolkata Suburban Railway Transit Map
 - Metro Railway Transit Maps
-- - Bengaluru Metro Railway Transit Map
+  - Bengaluru Metro Railway Transit Map
   - Delhi Metro Railway Transit Map
   - Hyderabad Metro Railway Transit Map
 
